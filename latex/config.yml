@@ -64,5 +64,5 @@ cs:
 fr:
   prechap: "Chapitre "
   presect: "Section "
-  fig: "Figure "
-  tab: "Tableau "
+  fig: "figure "
+  tab: "tableau "
