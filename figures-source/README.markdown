@@ -10,19 +10,37 @@ To make the translated SVG files consumable by the pdf and ebook toolchains, you
 
 # How to try localization #
 
-1. Create a new branch experimental on your tree
-     git checkout -b my_figures_l10n
-2. Add the figure localization repo as a remote
-     git remote add figure_l10n git://github.com/jnavila/progit.git; git fetch figure_l10n
-3. Merge the figure_l10n branch in your experimental branch
-     git merge figure_l10n/figure_l10n
-4. Copy this directory to your localization folder
-     cp -r figures-source [localization_folder] 
-	 git add [localization_folder]/figures-source/*.svg
-	 git commit -a 'first figure import'
-5. Edit the svg files and localize the text.
-6. Run the `convert.sh`; the final files are created in ../figures
-7. Run your toolchain with localized figures included!
+Create a new branch experimental on your tree
+
+```
+    git checkout -b my_figures_l10n
+```
+
+Add the figure localization repo as a remote
+
+```
+    git remote add figure_l10n git://github.com/jnavila/progit.git
+    git fetch figure_l10n
+```
+
+Merge the figure_l10n branch in your experimental branch
+
+```
+    git merge figure_l10n/figure_l10n
+```
+Copy this directory to your localization folder
+
+```
+    cp -r figures-source [localization_folder] 
+    git add [localization_folder]/figures-source/*.svg
+    git commit -a 'first figure import'
+```
+
+Edit the svg files and localize the text.
+
+Run the `convert.sh`; the final files are created in ../figures
+
+Run your toolchain with localized figures included!
 
 # Bugs ?
 
