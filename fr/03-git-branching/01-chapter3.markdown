@@ -1,6 +1,6 @@
 # Les branches avec Git #
 
-Quasiment tous les VCSs ont une forme ou une autre de gestion de branche.
+Quasiment tous les VCS ont une forme ou une autre de gestion de branche.
 Faire une branche signifie diverger de la ligne principale de développement et continuer à travailler sans se préoccuper de cette ligne principale.
 Dans de nombreux outils de gestion de version, cette fonctionnalité est souvent chère en ressources et nécessite souvent de créer une nouvelle copie du répertoire de travail, ce qui peut prendre longtemps dans le cas de grands projets.
 
@@ -21,7 +21,7 @@ zéro parent pour la première validation, un parent pour un commit normal et de
 Pour visualiser ce concept, supposons un répertoire contenant trois fichiers, ces trois fichiers étant indexés puis validés.
 Indexer les fichiers signifie calculer la somme de contrôle pour chacun (la fonction de hachage SHA-1 mentionnée au chapitre 1), stocker cette version du fichier dans le dépôt Git (Git les nomme blobs) et ajouter la somme de contrôle à la zone d'index :
 
-	$ git add LISEZMOI test.rb LICENSE
+	$ git add LISEZMOI test.rb LICENCE
 	$ git commit -m 'commit initial de mon projet'
 
 Lorsque vous créez le commit en lançant la commande `git commit`, Git calcule la somme de contrôle de chaque répertoire (ici, seulement pour le répertoire racine) et stocke ces objets arbres dans le dépôt Git.
@@ -62,7 +62,7 @@ Figure 3-4. Branches multiples pointant dans l'historique des données de commit
 
 Comment Git connaît-il la branche sur laquelle vous vous trouvez ?
 Il conserve un pointeur spécial appelé HEAD.
-Remarquez que sous cette appellation se cache un concept très différent de celui utilisé dans les autres VCSs tels que Subversion ou CVS.
+Remarquez que sous cette appellation se cache un concept très différent de celui utilisé dans les autres VCS tels que Subversion ou CVS.
 Dans Git, c'est un pointeur sur la branche locale où vous vous trouvez.
 Dans notre cas, vous vous trouvez toujours sur master.
 La commande git branch n'a fait que créer une nouvelle branche — elle n'a pas fait basculer la copie de travail vers cette branche (Cf. figure 3-5).
@@ -70,7 +70,7 @@ La commande git branch n'a fait que créer une nouvelle branche — elle n'a pa
 Insert 18333fig0305.png 
 Figure 3-5. fichier HEAD pointant sur la branche active
 
-Pour basculer vers une branche existant, il suffit de lancer la commande `git checkout`.
+Pour basculer vers une branche existante, il suffit de lancer la commande `git checkout`.
 Basculons vers la nouvelle branche testing :
 
 	$ git checkout testing
@@ -123,7 +123,7 @@ Figure 3-9. Les historiques de branche ont divergé.
 Parce que dans Git, une branche n'est en fait qu'un simple fichier contenant les 40 caractères de la somme de contrôle SHA-1 du commit sur lequel elle pointe, les branches ne coûtent rien à créer et détruire.
 Créer une branche est aussi rapide qu'écrire un fichier de 41 caractères (40 caractères plus un retour chariot).
 
-C'est une différence de taille avec la manière dont la plupart des VCSs gèrent les branches, qui implique de copier tous les fichiers du projet dans un second répertoire.
+C'est une différence de taille avec la manière dont la plupart des VCS gèrent les branches, qui implique de copier tous les fichiers du projet dans un second répertoire.
 Cela peut durer plusieurs secondes ou même quelques minutes selon la taille du projet, alors que pour Git, le processus est toujours instantané.
 De plus, comme nous enregistrons les parents quand nous validons les modifications, la détermination de l'ancêtre commun pour la fusion est réalisée automatiquement et de manière très facile.
 Ces fonctionnalités encouragent naturellement les développeurs à créer et utiliser souvent des branches. 
@@ -193,7 +193,7 @@ Pour l'instant, vous avez validé tous vos changements dans la branche `prob53` 
 	$ git checkout master
 	Switched to branch "master"
 
-À présent, votre répertoire de copie de travail est exactement dans l'état précédant les modifications pour le problème #53 et vous pouvez vous consacrer à votre correctif.
+À présent, votre répertoire de copie de travail est exactement dans l'état précédent les modifications pour le problème #53 et vous pouvez vous consacrer à votre correctif.
 C'est un point important : Git réinitialise le répertoire de travail pour qu'il ressemble à l'instantané de la validation sur laquelle la branche que vous extrayez pointe.
 Il ajoute, retire et modifie les fichiers automatiquement pour assurer que la copie de travail soit identique à ce qu'elle était lors de votre dernière validation sur la branche.
 
@@ -229,14 +229,14 @@ Votre modification est maintenant dans l'instantané du commit pointé par la br
 Insert 18333fig0314.png 
 Figure 3-14. Après la fusion, votre branche master pointe au même endroit que la correction.
 
-Après le déploiement de votre correction super-importante, vous voilà de nouveau prêt à travailler sur votre sujet antérieur à l'interruption.
+Après le déploiement de votre correction super-importante, vous voilà de nouveau prêt à travailler sur votre sujet précédent l'interruption.
 Cependant, vous allez avant tout effacer la branche `correctif` parce que vous n'en avez plus besoin et la branche `master` pointe au même endroit.
 Vous pouvez l'effacer avec l'option `-d` de la commande `git branch` :
 
 	$ git branch -d correctif
 	Deleted branch correctif (3a0874c).
 
-Maintenant, il est temps de basculer sur la branch "travaux en cours" sur le problème #53 et de continuer à travailler dessus (voir figure 3-15) :
+Maintenant, il est temps de basculer sur la branche "travaux en cours" sur le problème #53 et de continuer à travailler dessus (voir figure 3-15) :
 
 	$ git checkout prob53
 	Switched to branch "prob53"
@@ -271,7 +271,7 @@ La figure 3-16 illustre les trois instantanés que Git utilise pour réaliser la
 Insert 18333fig0316.png 
 Figure 3-16. Git identifie automatiquement la meilleure base d'ancêtre commun pour réaliser la fusion.
 
-Au lieu de simplement avancer le pointeur de branche, Git crée un nouvel instantané qui résulte de la fusion à trois branches et crée automatiquement un nouveau commit qui pointe dessus (voir figure 3-17).
+Au lieu de simplement d'avancer le pointeur de branche, Git crée un nouvel instantané qui résulte de la fusion à trois branches et crée automatiquement un nouveau commit qui pointe dessus (voir figure 3-17).
 On appelle ceci un commit de fusion, qui est spécial en ce qu'il comporte plus d'un parent.
 
 Il est à noter que Git détermine par lui-même le meilleur ancêtre commun à utiliser comme base de fusion ; ce comportement est très différent de celui de CVS ou Subversion (antérieur à la version 1.5), où le développeur en charge de la fusion doit trouver par lui-même la meilleure base de fusion.
@@ -429,7 +429,7 @@ Si vous souhaitez réellement effacer cette branche et perdre ainsi le travail r
 Après avoir acquis les bases pour brancher et fusionner, que pouvons-nous ou devons-nous en faire ?
 Ce chapitre traite des différents styles de développement que cette gestion de branche légère permet de mettre en place, pour vous aider à décider d'en incorporer une dans votre cycle de développement.
 
-### Les branches au long cours ###
+### Branches au long cours ###
 
 Comme Git utilise une fusion à 3 branches, fusionner une branche dans une autre plusieurs fois sur une longue période est généralement facile.
 Cela signifie que vous pouvez travailler sur plusieurs branches ouvertes en permanence pendant plusieurs étapes de votre cycle de développement ; vous pouvez fusionner régulièrement certaines dans d'autres.
@@ -522,7 +522,7 @@ Nommez ce serveur distant `equipeun` qui sera le raccourci pour l'URL complète 
 Insert 18333fig0325.png 
 Figure 3-25. Ajouter un autre serveur comme accès distant.
 
-Maintenant, lancez `git fetch equipeun` pour récupérer l'ensemble des informations du serveur que vous ne possédez pas.
+Maintenant, lancez `git fetch equipeun` pour récupérer l'ensemble des informations du serveur distant `equipeun` que vous ne possédez pas.
 Comme ce serveur contient déjà un sous-ensemble des données du serveur `origin`, Git ne récupère aucune donnée mais positionne une branche distante appelée `equipeun/master` qui pointe sur le commit que `equipeun` a comme branche `master` (voir figure 3-26).
 
 Insert 18333fig0326.png 
@@ -589,7 +589,7 @@ Si vous avez Git version 1.6.2 ou plus, vous pouvez aussi utiliser l'option cour
 
 	$ git checkout --track origin/correctionserveur
 	Branch correctionserveur set up to track remote branch refs/remotes/origin/correctionserveur.
-	Switched to a new branch "serverfix"
+	Switched to a new branch "correctionserveur"
 
 Pour créer une branche locale avec un nom différent de celui de la branche distante, vous pouvez simplement utiliser la première version avec un nom de branch locale différent :
 
@@ -657,7 +657,7 @@ Figure 3-29. Rebaser les modifications introduites par C3 sur C4.
 Insert 18333fig0330.png 
 Figure 3-30. Avance rapide sur la branche master.
 
-À présent, l'instantané pointé par C3 est exactement le même que celui pointé par C5 dans l'exemple de fusion.
+À présent, l'instantané pointé par C3' est exactement le même que celui pointé par C5 dans l'exemple de fusion.
 Il n'y a pas de différence entre les résultats des deux types d'intégration, mais rebaser rend l'historique plus clair.
 Si vous examinez le journal de la branche rebasée, elle est devenue linéaire : toutes les modifications apparaissent en série même si elles ont eu lieu en parallèle.
 

@@ -1,62 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
-			
-              
-			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
-			
-            
-		</marker>
-	</defs>
-	<g style="stroke:#000000;fill:#fff">
-		<rect height="55.0" id="292" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="127.864" x="100.641" y="369.0"/>
-		<text id="292_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="100.641" y="369.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="292_line1" stroke="#000000" text-align="center" text-anchor="middle" x="164.573" y="403.5">
-				Snapshot A
-			</tspan>
-		</text>
-		<path d="M 164.111,322.0 L 164.393,367.5" id="293" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="294" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="127.864" x="297.412" y="369.0"/>
-		<text id="294_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="297.412" y="369.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="294_line1" stroke="#000000" text-align="center" text-anchor="middle" x="361.344" y="403.5">
-				Snapshot B
-			</tspan>
-		</text>
-		<path d="M 361.033,322.0 L 361.223,367.5" id="295" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="296" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="127.864" x="500.643" y="369.0"/>
-		<text id="296_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="500.643" y="369.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="296_line1" stroke="#000000" text-align="center" text-anchor="middle" x="564.575" y="403.5">
-				Snapshot C
-			</tspan>
-		</text>
-		<path d="M 564.264,322.0 L 564.454,367.5" id="297" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="298" rx="5.0" ry="5.0" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="127.864" x="100.0" y="265.5"/>
-		<text id="298_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="100.0" y="265.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="298_line1" stroke="#000000" text-align="center" text-anchor="middle" x="163.932" y="302.0">
-				98ca9
-			</tspan>
-		</text>
-		<rect height="55.0" id="299" rx="5.0" ry="5.0" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="127.864" x="297.412" y="265.5"/>
-		<text id="299_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="297.412" y="265.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="299_line1" stroke="#000000" text-align="center" text-anchor="middle" x="361.344" y="302.0">
-				34ac2
-			</tspan>
-		</text>
-		<rect height="55.0" id="300" rx="5.0" ry="5.0" style="stroke:#28502c;stroke-width:3.000000px;fill:#baffb3" width="127.864" x="500.643" y="265.5"/>
-		<text id="300_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="500.643" y="265.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="300_line1" stroke="#000000" text-align="center" text-anchor="middle" x="564.575" y="302.0">
-				f30ab
-			</tspan>
-		</text>
-		<path d="M 295.912,293.0 L 229.364,293.0" id="301" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 499.143,293.0 L 426.776,293.0" id="302" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="303" rx="5.0" ry="5.0" style="stroke:#504c4d;stroke-width:3.000000px;fill:#d2d7d5" width="127.864" x="500.643" y="162.0"/>
-		<text id="303_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Geneva;font-size:14px" x="592.0" y="162.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="303_line1" stroke="#000000" text-align="center" text-anchor="middle" x="564.575" y="196.5">
-				master
-			</tspan>
-		</text>
-		<path d="M 564.264,218.214 L 564.264,264.286" id="305" style="marker-start:none;stroke:#000000;stroke-width:3.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-	</g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="265" width="531.51" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <marker id="Arrow1Lend" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="m-10,0,0-2,10,2-10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+ </defs>
+ <g transform="translate(-98.5,-160.5)">
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#1b2350" y="369" x="100.64" stroke-width="3px" fill="#d0ceff"/>
+  <text font-family="Geneva" font-size="14px" stroke="#ffffff" y="369" x="100.641" stroke-width="0px" fill="#ffffff">
+   <tspan font-size="14px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="403.5" x="164.573" font-family="&apos;Geneva" text-align="center">Snapshot A</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m164.11,322,0.282,45.5" stroke="#000" stroke-width="3px" fill="none"/>
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#1b2350" y="369" x="297.41" stroke-width="3px" fill="#d0ceff"/>
+  <text font-family="Geneva" font-size="14px" stroke="#ffffff" y="369" x="297.41199" stroke-width="0px" fill="#ffffff">
+   <tspan font-size="14px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="403.5" x="361.34399" font-family="&apos;Geneva" text-align="center">Snapshot B</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m361.03,322,0.19,45.5" stroke="#000" stroke-width="3px" fill="none"/>
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#1b2350" y="369" x="500.64" stroke-width="3px" fill="#d0ceff"/>
+  <text font-family="Geneva" font-size="14px" stroke="#ffffff" y="369" x="500.64301" stroke-width="0px" fill="#ffffff">
+   <tspan font-size="14px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="403.5" x="564.57501" font-family="&apos;Geneva" text-align="center">Snapshot C</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m564.26,322,0.19,45.5" stroke="#000" stroke-width="3px" fill="none"/>
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#28502c" y="265.5" x="100" stroke-width="3px" fill="#baffb3"/>
+  <text font-family="Geneva" font-size="14px" stroke="#000000" y="265.5" x="100" stroke-width="0px" fill="#000000">
+   <tspan font-size="18px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="302" x="163.93201" font-family="&apos;Courier" text-align="center">98ca9</tspan>
+  </text>
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#28502c" y="265.5" x="297.41" stroke-width="3px" fill="#baffb3"/>
+  <text font-family="Geneva" font-size="14px" stroke="#000000" y="265.5" x="297.41199" stroke-width="0px" fill="#000000">
+   <tspan font-size="18px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="302" x="361.34399" font-family="&apos;Courier" text-align="center">34ac2</tspan>
+  </text>
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#28502c" y="265.5" x="500.64" stroke-width="3px" fill="#baffb3"/>
+  <text font-family="Geneva" font-size="14px" stroke="#000000" y="265.5" x="500.64301" stroke-width="0px" fill="#000000">
+   <tspan font-size="18px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="302" x="564.57501" font-family="&apos;Courier" text-align="center">f30ab</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m295.91,293-66.548,0" stroke="#000" stroke-width="3px" fill="none"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m499.14,293-72.367,0" stroke="#000" stroke-width="3px" fill="none"/>
+  <rect rx="5" ry="5" height="55" width="127.86" stroke="#504c4d" y="162" x="500.64" stroke-width="3px" fill="#d2d7d5"/>
+  <text font-family="Geneva" font-size="14px" stroke="#000000" y="162" x="592" stroke-width="0px" fill="#000000">
+   <tspan font-size="14px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="196.5" x="564.57501" font-family="&apos;Geneva" text-align="center">master</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m564.26,218.21,0,46.072" stroke="#000" stroke-width="3px" fill="none"/>
+ </g>
 </svg>

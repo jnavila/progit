@@ -1,15 +1,14 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 require 'fileutils'
-require 'open3'
 require 'erb'
 require 'yaml'
 
-include FileUtils, Open3
-alias :pipe :popen3
+include FileUtils
 
 $here = File.expand_path(File.dirname(__FILE__))
 $root = File.join($here, '..')
+$outDir = File.join($root, 'pdf')
 
 def figures(lang,&block)
 	begin
@@ -34,14 +33,18 @@ Usage:
   makepdf [OPTION...] LANGUAGE [LANGUAGE 2...]
 
 Options:
-  -d, --debug      prints TeX and other output 
+  -d, --debug      prints TeX and other output
 USAGE
 	exit
 end
 
 def command_exists?(command)
-	ENV['PATH'].split(/:/).map do |path|
-		File.executable?("#{path}/#{command}")
+	if File.executable?(command) then
+		return command
+	end
+	ENV['PATH'].split(File::PATH_SEPARATOR).map do |path|
+		cmd = "#{path}/#{command}"
+		File.executable?(cmd) || File.executable?("#{cmd}.exe") || File.executable?("#{cmd}.cmd")
 	end.inject{|a, b| a || b}
 end
 
@@ -85,45 +88,27 @@ def post_pandoc(string, config)
 		# Enable proper cross-reference
 		s /#{config['fig'].gsub(space, '\s')}\s*(\d+)\-\-(\d+)/, '\imgref{\1.\2}'
 		s /#{config['tab'].gsub(space, '\s')}\s*(\d+)\-\-(\d+)/, '\tabref{\1.\2}'
-		s /#{config['prechap'].gsub(space, '\s')}\s*(\d+)\s*#{config['postchap'].gsub(space, '\s')}/, '\chapref{\1}'
+		s /#{config['prechap'].gsub(space, '\s')}\s*(\d+)(\s*)#{config['postchap'].gsub(space, '\s')}/, '\chapref{\1}\2'
 
 		# Miscellaneous fixes
 		s /FIG: (.*)/, '\img{\1}'
 		s '\begin{enumerate}[1.]', '\begin{enumerate}'
 		s /(\w)--(\w)/, '\1-\2'
-		s /``(.*?)''/, '“\1”'
+		s /``(.*?)''/, "#{config['dql']}\\1#{config['dqr']}"
 
 		# Typeset the maths in the book with TeX
 		s '\verb!p = (n(n-1)/2) * (1/2^160))!', '$p = \frac{n(n-1)}{2} \times \frac{1}{2^{160}}$)'
 		s '2\^{}80', '$2^{80}$'
 		s /\sx\s10\\\^\{\}(\d+)/, '\e{\1}'
 
-		# Ensure monospaced stuff is in a smaller font
-		s /(\\verb(\W).*?\2)/, '{\footnotesize\1}'
-		s /(\\begin\{verbatim\}.*?\\end\{verbatim\})/m, '{\footnotesize\1}'
-
 		# Convert inline-verbatims into \texttt (which is able to wrap)
 		s /\\verb(\W)(.*?)\1/ do
 			"{\\texttt{#{verbatim_sanitize($2)}}}"
 		end
 
-		# Make Tables 2-1..2-3 actual tables
-		s /\\begin\{verbatim\}\n(([^\t\n]+\t.*?\n)+)\\end\{verbatim\}/ do
-			"\\begin{table}[h!]
-				\\refstepcounter{table}
-				\\centering
-				\\label{tab:\\thetable}
-				\\begin{tabular}{p{2.75cm}p{8.25cm}}
-					\\toprule\n" <<
-					verbatim_sanitize($1).
-						gsub(/^([^\n\t]+)\t/, '{\footnotesize\texttt{\1}} & ').
-						gsub(/(\n)/, '\\\\\\\\\1').
-						sub(/\{\\footnotesize\\texttt(.*?)\n/, '{\1\midrule ').
-						concat("
-					\\bottomrule
-				\\end{tabular}
-			\\end{table}")
-		end
+		# Ensure monospaced stuff is in a smaller font
+		s /(\\verb(\W).*?\2)/, '{\footnotesize\1}'
+		s /(\\begin\{verbatim\}.*?\\end\{verbatim\})/m, '{\footnotesize\1}'
 
 		# Shaded verbatim block
 		s /(\\begin\{verbatim\}.*?\\end\{verbatim\})/m, '\begin{shaded}\1\end{shaded}'
@@ -154,10 +139,10 @@ languages.each do |lang|
 		end.join("\n\n")
 
 		print "\tParsing markdown... "
-		latex = pipe('pandoc -p -f markdown -t latex') do |stdin, stdout|
-			stdin.write(pre_pandoc(markdown, config))
-			stdin.close
-			post_pandoc(stdout.read, config)
+		latex = IO.popen('pandoc -p --no-wrap -f markdown -t latex', 'w+') do |pipe|
+			pipe.write(pre_pandoc(markdown, config))
+			pipe.close_write
+			post_pandoc(pipe.read, config)
 		end
 		puts "done"
 
@@ -173,17 +158,17 @@ languages.each do |lang|
 
 		puts "\tRunning XeTeX:"
 		cd($root)
-		3.times do |i|	
+		3.times do |i|
 			print "\t\tPass #{i + 1}... "
-			pipe("xelatex -output-directory='#{dir}' '#{dir}/main.tex' 2>&1") do |_, stdout|
+			IO.popen("xelatex -output-directory=\"#{dir}\" \"#{dir}/main.tex\" 2>&1") do |pipe|
 				unless $DEBUG
 					if ~ /^!\s/
 						puts "failed with:\n\t\t\t#{$_.strip}"
 						puts "\tConsider running this again with --debug."
 						abort = true
-					end while stdout.gets and not abort
+					end while pipe.gets and not abort
 				else
-					STDERR.print while stdout.gets rescue abort = true
+					STDERR.print while pipe.gets rescue abort = true
 				end
 			end
 			break if abort
@@ -191,8 +176,8 @@ languages.each do |lang|
 		end
 
 		unless abort
-			print "\tCopying output to progit.#{lang}.pdf... "
-			cp("#{dir}/main.pdf", "#$root/progit.#{lang}.pdf")
+			print "\tMoving output to progit.#{lang}.pdf... "
+                        mv("#{dir}/main.pdf", "#$root/progit.#{lang}.pdf")
 			puts "done"
 		end
 	end

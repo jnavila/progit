@@ -1,52 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
-			
-              
-			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
-			
-            
-		</marker>
-		<marker id="Arrow1Lstart" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
-			
-              
-			<path d="M 10,0.0 L 10.0,-2.0 L 0.0,0.0 L 10.0,2.0 z" id="path3663" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none"/>
-			
-            
-		</marker>
-	</defs>
-	<g style="stroke:#000000;fill:#fff">
-		<rect height="57.4696" id="1957" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="106.079" x="207.96" y="131.0"/>
-		<text id="1957_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="207.96" y="131.0">
-			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1957_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.9995" y="165.7348">
-				developer
-			</tspan>
-		</text>
-		<rect height="57.4696" id="1972" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="106.079" x="84.96" y="131.0"/>
-		<text id="1972_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="84.96" y="131.0">
-			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1972_line1" stroke="#000000" text-align="center" text-anchor="middle" x="137.9995" y="165.7348">
-				developer
-			</tspan>
-		</text>
-		<rect height="57.4696" id="1974" rx="8.45811566517" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="106.079" x="330.961" y="131.0"/>
-		<text id="1974_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="330.961" y="131.0">
-			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1974_line1" stroke="#000000" text-align="center" text-anchor="middle" x="384.0005" y="165.7348">
-				developer
-			</tspan>
-		</text>
-		<rect height="57.4696" id="1987" rx="7.45827571057" ry="28.7348" style="stroke:#616161;stroke-width:3.000000px;fill:#8ab5eb" width="118.166" x="201.916" y="15.0"/>
-		<text id="1987_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Helvetica;font-size:12px" x="201.916" y="15.0">
-			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1987_line1" stroke="#000000" text-align="center" text-anchor="middle" x="260.999" y="43.7348">
-				shared
-			</tspan>
-			<tspan fill="#000000" font-family="LucidaGrande;" font-size="12.0px" id="1987_line2" stroke="#000000" text-align="center" text-anchor="middle" x="260.999" y="55.7348">
-				repository
-			</tspan>
-		</text>
-		<path d="M 219.274,73.3376 L 137.999,131.0" id="2010" style="marker-start:url(#Arrow1Lstart);stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 139.223,130.132 L 219.274,73.3376" id="2011" style="marker-start:url(#Arrow1Lstart);stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 260.999,73.9696 L 261.0,129.5" id="2012" style="marker-start:url(#Arrow1Lstart);stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 302.724,73.3376 L 384.0,131.0" id="2013" style="marker-start:url(#Arrow1Lstart);stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-	</g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="176.47" width="355.08" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <marker id="Arrow1Lend" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="m-10,0,0-2,10,2-10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+  <marker id="Arrow1Lstart" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="M10,0,10-2,0,0,10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+ </defs>
+ <g transform="translate(-83.459999,-13.5)">
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="131" x="207.96" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Helvetica" font-size="12px" stroke="#000000" y="131" x="207.96001" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="165.7348" x="260.99951" font-family="&apos;LucidaGrande" text-align="center">developer</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="131" x="84.96" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Helvetica" font-size="12px" stroke="#000000" y="131" x="84.959999" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="165.7348" x="137.9995" font-family="&apos;LucidaGrande" text-align="center">developer</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="131" x="330.96" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Helvetica" font-size="12px" stroke="#000000" y="131" x="330.961" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="165.7348" x="384.00049" font-family="&apos;LucidaGrande" text-align="center">developer</tspan>
+  </text>
+  <rect rx="7.4583" ry="28.735" height="57.47" width="118.17" stroke="#616161" y="15" x="201.92" stroke-width="3px" fill="#8ab5eb"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="15" x="201.916" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="43.734798" x="260.99899" text-align="center">shared</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="55.734798" x="260.99899" text-align="center">repository</tspan>
+  </text>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);" fill="none" d="M219.27,73.338,138,131" stroke="#000"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);" fill="none" d="M139.22,130.13,219.27,73.338" stroke="#000"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);" fill="none" d="M261,73.97,261,129.5" stroke="#000"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);" fill="none" d="M302.72,73.338,384,131" stroke="#000"/>
+ </g>
 </svg>

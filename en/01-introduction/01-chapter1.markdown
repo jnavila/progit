@@ -73,7 +73,7 @@ This is an important distinction between Git and nearly all other VCSs. It makes
 
 ### Nearly Every Operation Is Local ###
 
-Most operations in Git only need local files and resources to operate – generally no information is needed from another computer on your network.  If you’re used to a CVCS where most operations have that network latency overhead, this aspect of Git will make you think that the gods of speed have blessed Git with unworldly powers. Because you have the entire history of the project right there on your local disk, most operations seem almost instantaneous.
+Most operations in Git only need local files and resources to operate — generally no information is needed from another computer on your network.  If you’re used to a CVCS where most operations have that network latency overhead, this aspect of Git will make you think that the gods of speed have blessed Git with unworldly powers. Because you have the entire history of the project right there on your local disk, most operations seem almost instantaneous.
 
 For example, to browse the history of the project, Git doesn’t need to go out to the server to get the history and display it for you—it simply reads it directly from your local database. This means you see the project history almost instantly. If you want to see the changes introduced between the current version of a file and the file a month ago, Git can look up the file a month ago and do a local difference calculation, instead of having to either ask a remote server to do it or pull an older version of the file from the remote server to do it locally.
 
@@ -93,7 +93,7 @@ You will see these hash values all over the place in Git because it uses them so
 
 When you do actions in Git, nearly all of them only add data to the Git database. It is very difficult to get the system to do anything that is not undoable or to make it erase data in any way. As in any VCS, you can lose or mess up changes you haven’t committed yet; but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository.
 
-This makes using Git a joy because we know we can experiment without the danger of severely screwing things up. For a more in-depth look at how Git stores its data and how you can recover data that seems lost, see “Under the Covers” in Chapter 9.
+This makes using Git a joy because we know we can experiment without the danger of severely screwing things up. For a more in-depth look at how Git stores its data and how you can recover data that seems lost, see Chapter 9.
 
 ### The Three States ###
 
@@ -132,7 +132,7 @@ To install Git, you need to have the following libraries that Git depends on: cu
 	  openssl-devel zlib-devel
 
 	$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
-	  libz-dev
+	  libz-dev libssl-dev
 	
 When you have all the necessary dependencies, you can go ahead and grab the latest snapshot from the Git web site:
 
@@ -140,8 +140,8 @@ When you have all the necessary dependencies, you can go ahead and grab the late
 	
 Then, compile and install:
 
-	$ tar -zxf git-1.6.0.5.tar.gz
-	$ cd git-1.6.0.5
+	$ tar -zxf git-1.7.2.2.tar.gz
+	$ cd git-1.7.2.2
 	$ make prefix=/usr/local all
 	$ sudo make prefix=/usr/local install
 
