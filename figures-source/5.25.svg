@@ -1,194 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
-			
-              
-			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
-			
-            
-		</marker>
-	</defs>
-	<g style="stroke:#000000;fill:#fff">
-		<path d="M 334.018,122.079 L 466.0,122.0  L 465.94,174.175" id="1411" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 310.526,71.0814 L 529.0,71.0  L 528.879,174.175" id="1412" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 325.452,288.976 L 400.005,290.0  L 402.151,247.409" id="1401" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 299.809,335.045 L 466.0,335.0  L 465.881,247.411" id="1407" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 271.452,381.357 L 529.0,381.0  L 528.875,247.411" id="1408" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="25.1959" id="1342" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="223.0" y="276.118"/>
-		<text id="1342_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="223.0" y="276.118">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1342_line1" stroke="#000000" text-align="center" text-anchor="middle" x="240.39965" y="294.71595">
-				C3
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1343" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="125.504" y="202.73"/>
-		<text id="1343_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="125.504" y="202.73">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1343_line1" stroke="#000000" text-align="center" text-anchor="middle" x="142.90365" y="221.32795">
-				C2
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1344" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="60.606" y="203.377"/>
-		<text id="1344_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="60.606" y="203.377">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1344_line1" stroke="#000000" text-align="center" text-anchor="middle" x="78.00565" y="221.97495">
-				C1
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1345" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="289.154" y="276.118"/>
-		<text id="1345_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="289.154" y="276.118">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1345_line1" stroke="#000000" text-align="center" text-anchor="middle" x="306.55365" y="294.71595">
-				C4
-			</tspan>
-		</text>
-		<path d="M 287.654,288.716 L 259.299,288.716" id="1346" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 223.467,278.529 L 190.401,258.637  L 157.434,228.577" id="1347" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 124.005,215.516 L 96.9047,215.787" id="1348" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 59.106,215.975 L 19.0,215.975" id="1349" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);stroke-dasharray:3 3;fill:none"/>
-		<path d="M 348.214,289.031 L 325.453,288.859" id="1351" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="26.4902" id="1352" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="56.2081" x="81.0" y="154.598"/>
-		<text id="1352_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="81.0" y="154.598">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1352_line1" stroke="#777777" text-align="center" text-anchor="middle" x="109.10405" y="172.8431">
-				master
-			</tspan>
-		</text>
-		<path d="M 119.112,181.903 L 133.067,201.508" id="1353" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="26.4902" id="1350" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="85.698" x="349.214" y="276.118"/>
-		<text id="1350_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="349.214" y="276.118">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1350_line1" stroke="#777777" text-align="center" text-anchor="middle" x="392.063" y="294.3631">
-				tv/rebase-stat
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1373" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="197.357" y="322.452"/>
-		<text id="1373_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="197.357" y="322.452">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1373_line1" stroke="#000000" text-align="center" text-anchor="middle" x="214.75665" y="341.04995">
-				C5
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1374" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="263.51" y="322.452"/>
-		<text id="1374_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="263.51" y="322.452">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1374_line1" stroke="#000000" text-align="center" text-anchor="middle" x="280.90965" y="341.04995">
-				C6
-			</tspan>
-		</text>
-		<path d="M 262.01,335.05 L 233.656,335.05" id="1375" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 323.268,335.347 L 299.809,335.182" id="1376" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="26.4902" id="1377" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="98.0" x="324.268" y="322.452"/>
-		<text id="1377_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="324.268" y="322.452">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1377_line1" stroke="#777777" text-align="center" text-anchor="middle" x="373.268" y="340.6971">
-				jk/post-checkout
-			</tspan>
-		</text>
-		<path d="M 201.354,321.388 L 176.0,295.544  L 148.674,229.313" id="1378" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="26.4902" id="1379" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="85.698" x="363.871" y="108.201"/>
-		<text id="1379_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="363.871" y="108.201">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1379_line1" stroke="#777777" text-align="center" text-anchor="middle" x="406.72" y="126.4461">
-				js/notes
-			</tspan>
-		</text>
-		<rect height="26.4902" id="1380" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="104.094" x="295.911" y="367.491"/>
-		<text id="1380_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="295.911" y="367.491">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1380_line1" stroke="#777777" text-align="center" text-anchor="middle" x="347.958" y="385.7361">
-				db/push-cleanup
-			</tspan>
-		</text>
-		<rect height="26.4902" id="1382" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="85.698" x="335.744" y="57.8449"/>
-		<text id="1382_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="335.744" y="57.8449">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1382_line1" stroke="#777777" text-align="center" text-anchor="middle" x="378.593" y="76.09">
-				ps/blame
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1383" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="169.0" y="368.785"/>
-		<text id="1383_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="169.0" y="368.785">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1383_line1" stroke="#000000" text-align="center" text-anchor="middle" x="186.39965" y="387.38295">
-				C7
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1384" rx="5.39800528271" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="34.7993" x="235.153" y="368.785"/>
-		<text id="1384_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="235.153" y="368.785">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1384_line1" stroke="#000000" text-align="center" text-anchor="middle" x="252.55265" y="387.38295">
-				C8
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1387" rx="4.23329430357" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="41.7238" x="216.797" y="109.495"/>
-		<text id="1387_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="216.797" y="109.495">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1387_line1" stroke="#000000" text-align="center" text-anchor="middle" x="237.6589" y="128.09295">
-				C9
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1388" rx="4.11986141227" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.6426" x="289.875" y="109.495"/>
-		<text id="1388_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="289.875" y="109.495">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1388_line1" stroke="#000000" text-align="center" text-anchor="middle" x="311.1963" y="128.09295">
-				C10
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1389" rx="4.11986141227" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.6426" x="200.95" y="58.492"/>
-		<text id="1389_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="200.95" y="58.492">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1389_line1" stroke="#000000" text-align="center" text-anchor="middle" x="222.2713" y="77.08995">
-				C11
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1390" rx="4.11986141227" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.6426" x="266.383" y="58.492"/>
-		<text id="1390_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="266.383" y="58.492">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1390_line1" stroke="#000000" text-align="center" text-anchor="middle" x="287.7043" y="77.08995">
-				C12
-			</tspan>
-		</text>
-		<path d="M 177.7,367.514 L 148.0,320.166  L 143.589,229.424" id="1391" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 233.653,381.383 L 205.299,381.383" id="1392" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 294.911,381.096 L 271.452,381.255" id="1393" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 215.845,127.413 L 186.0,134.691  L 150.344,201.407" id="1394" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 200.552,78.4047 L 178.0,86.0  L 146.715,201.282" id="1395" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 288.375,122.093 L 260.021,122.093" id="1396" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 264.883,71.09 L 245.093,71.09" id="1397" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 362.871,121.743 L 334.017,121.938" id="1398" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 334.744,71.09 L 310.526,71.09" id="1399" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="25.1959" id="1400" rx="4.23329430357" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#adc9b2" width="41.7238" x="382.0" y="220.715"/>
-		<text id="1400_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="382.0" y="220.715">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1400_line1" stroke="#000000" text-align="center" text-anchor="middle" x="402.8619" y="239.31295">
-				C13
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1402" rx="4.23329430357" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#adc9b2" width="41.7238" x="445.0" y="220.715"/>
-		<text id="1402_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="445.0" y="220.715">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1402_line1" stroke="#000000" text-align="center" text-anchor="middle" x="465.8619" y="239.31295">
-				C14
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1403" rx="4.23329430357" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#adc9b2" width="41.7238" x="508.0" y="220.715"/>
-		<text id="1403_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="508.0" y="220.715">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1403_line1" stroke="#000000" text-align="center" text-anchor="middle" x="528.8619" y="239.31295">
-				C15
-			</tspan>
-		</text>
-		<path d="M 443.5,233.313 L 425.224,233.313" id="1404" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 506.5,233.313 L 488.224,233.313" id="1405" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 380.501,233.138 L 235.153,232.0  L 161.618,218.71" id="1406" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="25.1959" id="1409" rx="4.21751332412" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#adc9b2" width="41.8483" x="445.0" y="175.675"/>
-		<text id="1409_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="445.0" y="175.675">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1409_line1" stroke="#000000" text-align="center" text-anchor="middle" x="465.92415" y="194.27295">
-				C16
-			</tspan>
-		</text>
-		<rect height="25.1959" id="1410" rx="4.21751332412" ry="12.59795" style="stroke:#616161;stroke-width:3.000000px;fill:#adc9b2" width="41.8483" x="507.938" y="175.675"/>
-		<text id="1410_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="507.938" y="175.675">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1410_line1" stroke="#000000" text-align="center" text-anchor="middle" x="528.86215" y="194.27295">
-				C17
-			</tspan>
-		</text>
-		<path d="M 443.5,188.246 L 235.153,188.0  L 161.309,209.876" id="1413" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 506.438,188.273 L 488.348,188.273" id="1414" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="26.4902" id="1415" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="56.2081" x="576.0" y="220.715"/>
-		<text id="1415_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="576.0" y="220.715">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1415_line1" stroke="#777777" text-align="center" text-anchor="middle" x="604.10405" y="238.9601">
-				next
-			</tspan>
-		</text>
-		<rect height="26.4902" id="1416" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="56.2081" x="576.0" y="174.381"/>
-		<text id="1416_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="576.0" y="174.381">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1416_line1" stroke="#777777" text-align="center" text-anchor="middle" x="604.10405" y="192.6261">
-				pu
-			</tspan>
-		</text>
-		<path d="M 575.0,233.71 L 551.223,233.505" id="1417" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 575.0,187.876 L 551.286,188.08" id="1418" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-	</g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="338.64" width="614.71" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <marker id="Arrow1Lend" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="m-10,0,0-2,10,2-10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+ </defs>
+ <g transform="translate(-18.5,-56.844898)">
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M334.02,122.08,466,122l-0.06,52.175" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M310.53,71.081,529,71,528.88,174.18" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m325.45,288.98,74.553,1.024,2.146-42.591" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M299.81,335.04,466,335,465.88,247.41" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M271.45,381.36,529,381,528.88,247.41" stroke="#000"/>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="276.12" x="223" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="276.11801" x="223" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="294.71594" x="240.39964" font-family="&apos;Courier" text-align="center">C3</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="202.73" x="125.5" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="202.73" x="125.504" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="221.32796" x="142.90366" font-family="&apos;Courier" text-align="center">C2</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="203.38" x="60.606" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="203.377" x="60.605999" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="221.97495" x="78.005653" font-family="&apos;Courier" text-align="center">C1</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="276.12" x="289.15" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="276.11801" x="289.15399" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="294.71594" x="306.55365" font-family="&apos;Courier" text-align="center">C4</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m287.65,288.72-28.355,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m223.47,278.53-33.066-19.892-32.967-30.06" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m124,215.52-27.1,0.271" stroke="#000"/>
+  <path style="marker-end:url(#Arrow1Lend);marker-start:none;" d="m59.106,215.98-40.106,0" stroke="#000" stroke-dasharray="3, 3" fill="none"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m348.21,289.03-22.761-0.172" stroke="#000"/>
+  <rect height="26.49" width="56.208" stroke="#616161" y="154.6" x="81" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="154.59801" x="81" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="172.84309" x="109.10405" font-family="&apos;LucidaGrande" text-align="center">master</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m119.11,181.9,13.955,19.605" stroke="#000"/>
+  <rect height="26.49" width="85.698" stroke="#616161" y="276.12" x="349.21" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="276.11801" x="349.21399" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="294.3631" x="392.06299" font-family="&apos;LucidaGrande" text-align="center">tv/rebase-stat</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="322.45" x="197.36" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="322.452" x="197.35699" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="341.04996" x="214.75665" font-family="&apos;Courier" text-align="center">C5</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="322.45" x="263.51" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="322.452" x="263.51001" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="341.04996" x="280.90964" font-family="&apos;Courier" text-align="center">C6</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m262.01,335.05-28.354,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m323.27,335.35-23.459-0.165" stroke="#000"/>
+  <rect height="26.49" width="98" stroke="#616161" y="322.45" x="324.27" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="322.452" x="324.26801" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="340.69711" x="373.26801" font-family="&apos;LucidaGrande" text-align="center">jk/post-checkout</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M201.35,321.39,176,295.54,148.67,229.31" stroke="#000"/>
+  <rect height="26.49" width="85.698" stroke="#616161" y="108.2" x="363.87" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="108.201" x="363.871" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="126.4461" x="406.72" font-family="&apos;LucidaGrande" text-align="center">js/notes</tspan>
+  </text>
+  <rect height="26.49" width="104.09" stroke="#616161" y="367.49" x="295.91" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="367.491" x="295.91101" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="385.73611" x="347.95801" font-family="&apos;LucidaGrande" text-align="center">db/push-cleanup</tspan>
+  </text>
+  <rect height="26.49" width="85.698" stroke="#616161" y="57.845" x="335.74" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="57.844898" x="335.74399" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="76.089996" x="378.59299" font-family="&apos;LucidaGrande" text-align="center">ps/blame</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="368.78" x="169" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="368.785" x="169" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="387.38297" x="186.39964" font-family="&apos;Courier" text-align="center">C7</tspan>
+  </text>
+  <rect rx="5.398" ry="12.598" height="25.196" width="34.799" stroke="#616161" y="368.78" x="235.15" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="368.785" x="235.153" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="387.38297" x="252.55264" font-family="&apos;Courier" text-align="center">C8</tspan>
+  </text>
+  <rect rx="4.2333" ry="12.598" height="25.196" width="41.724" stroke="#616161" y="109.5" x="216.8" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="109.495" x="216.797" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="128.09296" x="237.65891" font-family="&apos;Courier" text-align="center">C9</tspan>
+  </text>
+  <rect rx="4.1199" ry="12.598" height="25.196" width="42.643" stroke="#616161" y="109.5" x="289.88" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="109.495" x="289.875" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="128.09296" x="311.19629" font-family="&apos;Courier" text-align="center">C10</tspan>
+  </text>
+  <rect rx="4.1199" ry="12.598" height="25.196" width="42.643" stroke="#616161" y="58.492" x="200.95" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="58.492001" x="200.95" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="77.089951" x="222.2713" font-family="&apos;Courier" text-align="center">C11</tspan>
+  </text>
+  <rect rx="4.1199" ry="12.598" height="25.196" width="42.643" stroke="#616161" y="58.492" x="266.38" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="58.492001" x="266.383" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="77.089951" x="287.70432" font-family="&apos;Courier" text-align="center">C12</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M177.7,367.51,148,320.17,143.59,229.42" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m233.65,381.38-28.354,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m294.91,381.1-23.459,0.159" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M215.84,127.41,186,134.69,150.34,201.41" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M200.55,78.405,178,86,146.72,201.28" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m288.38,122.09-28.354,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m264.88,71.09-19.79,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m362.87,121.74-28.854,0.195" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m334.74,71.09-24.218,0" stroke="#000"/>
+  <rect rx="4.2333" ry="12.598" height="25.196" width="41.724" stroke="#616161" y="220.72" x="382" stroke-width="3px" fill="#adc9b2"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="220.715" x="382" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="239.31294" x="402.86191" font-family="&apos;Courier" text-align="center">C13</tspan>
+  </text>
+  <rect rx="4.2333" ry="12.598" height="25.196" width="41.724" stroke="#616161" y="220.72" x="445" stroke-width="3px" fill="#adc9b2"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="220.715" x="445" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="239.31294" x="465.86191" font-family="&apos;Courier" text-align="center">C14</tspan>
+  </text>
+  <rect rx="4.2333" ry="12.598" height="25.196" width="41.724" stroke="#616161" y="220.72" x="508" stroke-width="3px" fill="#adc9b2"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="220.715" x="508" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="239.31294" x="528.86188" font-family="&apos;Courier" text-align="center">C15</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m443.5,233.31-18.276,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m506.5,233.31-18.276,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M380.5,233.14,235.15,232,161.62,218.71" stroke="#000"/>
+  <rect rx="4.2175" ry="12.598" height="25.196" width="41.848" stroke="#616161" y="175.68" x="445" stroke-width="3px" fill="#adc9b2"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="175.675" x="445" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="194.27295" x="465.92416" font-family="&apos;Courier" text-align="center">C16</tspan>
+  </text>
+  <rect rx="4.2175" ry="12.598" height="25.196" width="41.848" stroke="#616161" y="175.68" x="507.94" stroke-width="3px" fill="#adc9b2"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="175.675" x="507.93799" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="194.27295" x="528.86212" font-family="&apos;Courier" text-align="center">C17</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M443.5,188.25,235.15,188,161.31,209.88" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m506.44,188.27-18.09,0" stroke="#000"/>
+  <rect height="26.49" width="56.208" stroke="#616161" y="220.72" x="576" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="220.715" x="576" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="238.9601" x="604.10406" font-family="&apos;LucidaGrande" text-align="center">next</tspan>
+  </text>
+  <rect height="26.49" width="56.208" stroke="#616161" y="174.38" x="576" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="174.381" x="576" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="192.6261" x="604.10406" font-family="&apos;LucidaGrande" text-align="center">pu</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m575,233.71-23.777-0.205" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m575,187.88-23.714,0.204" stroke="#000"/>
+ </g>
 </svg>

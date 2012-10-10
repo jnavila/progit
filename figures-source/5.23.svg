@@ -1,78 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
-			
-              
-			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
-			
-            
-		</marker>
-	</defs>
-	<g style="stroke:#000000;fill:#fff">
-		<rect height="36.0" id="1342" rx="10.0026796097" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.394" x="198.394" y="255.27"/>
-		<text id="1342_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="198.394" y="255.27">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1342_line1" stroke="#000000" text-align="center" text-anchor="middle" x="219.591" y="279.27">
-				C3
-			</tspan>
-		</text>
-		<rect height="36.0" id="1343" rx="10.0026796097" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.394" x="129.0" y="194.24"/>
-		<text id="1343_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="129.0" y="194.24">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1343_line1" stroke="#000000" text-align="center" text-anchor="middle" x="150.197" y="218.24">
-				C2
-			</tspan>
-		</text>
-		<rect height="36.0" id="1344" rx="10.0026796097" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.394" x="59.606" y="193.74"/>
-		<text id="1344_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="59.606" y="193.74">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1344_line1" stroke="#000000" text-align="center" text-anchor="middle" x="80.803" y="217.74">
-				C1
-			</tspan>
-		</text>
-		<rect height="36.0" id="1345" rx="10.0026796097" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.394" x="267.0" y="255.27"/>
-		<text id="1345_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="267.0" y="255.27">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1345_line1" stroke="#000000" text-align="center" text-anchor="middle" x="288.197" y="279.27">
-				C4
-			</tspan>
-		</text>
-		<path d="M 265.5,273.27 L 242.288,273.27" id="1346" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 200.55,256.524 L 169.238,228.986" id="1347" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 127.5,212.076 L 103.5,211.904" id="1348" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 58.106,211.74 L 24.0,211.74" id="1349" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);stroke-dasharray:3 3;fill:none"/>
-		<path d="M 288.067,309.78 L 288.128,292.77" id="1351" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="36.0" id="1352" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="56.2081" x="263.29" y="137.0"/>
-		<text id="1352_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="263.29" y="137.0">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1352_line1" stroke="#777777" text-align="center" text-anchor="middle" x="291.39405" y="160.0">
-				master
-			</tspan>
-		</text>
-		<path d="M 303.022,173.851 L 314.503,192.463" id="1353" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="36.0" id="1354" rx="10.0026796097" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#d3f5d6" width="42.394" x="198.394" y="194.24"/>
-		<text id="1354_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="198.394" y="194.24">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1354_line1" stroke="#000000" text-align="center" text-anchor="middle" x="219.591" y="218.24">
-				C5
-			</tspan>
-		</text>
-		<path d="M 196.894,212.24 L 172.894,212.24" id="1355" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="36.0" id="1365" rx="10.0026796097" ry="18.0" style="stroke:#616161;stroke-width:3.000000px;fill:#b2ceb7" width="42.394" x="305.197" y="193.74"/>
-		<text id="1365_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="305.197" y="193.74">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="1365_line1" stroke="#000000" text-align="center" text-anchor="middle" x="326.394" y="217.74">
-				C8
-			</tspan>
-		</text>
-		<path d="M 314.429,231.014 L 300.162,253.996" id="1366" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 303.697,211.846 L 242.288,212.134" id="1369" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="36.0" id="1350" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="70.0222" x="252.989" y="310.78"/>
-		<text id="1350_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="252.989" y="310.78">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1350_line1" stroke="#777777" text-align="center" text-anchor="middle" x="288.0001" y="333.78">
-				ruby_client
-			</tspan>
-		</text>
-		<rect height="36.0" id="1371" style="stroke:#616161;stroke-width:2.000000px;fill:#eeeeee" width="56.2081" x="333.29" y="137.0"/>
-		<text id="1371_text" style="fill:#cccccc;stroke:#cccccc;stroke-width:0px;font-family: Luxi Sans;font-size:10px" x="333.29" y="137.0">
-			<tspan fill="#777777" font-family="LucidaGrande;" font-size="10.0px" id="1371_line1" stroke="#777777" text-align="center" text-anchor="middle" x="361.39405" y="160.0">
-				develop
-			</tspan>
-		</text>
-		<path d="M 349.766,173.851 L 338.285,192.463" id="1372" style="marker-start:none;stroke:#000000;marker-end:url(#Arrow1Lend);fill:none"/>
-	</g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="211.78" width="367" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <marker id="Arrow1Lend" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="m-10,0,0-2,10,2-10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+ </defs>
+ <g transform="translate(-23.5,-136)">
+  <rect rx="10.003" ry="18" height="36" width="42.394" stroke="#616161" y="255.27" x="198.39" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="255.27" x="198.394" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="279.26999" x="219.591" font-family="&apos;Courier" text-align="center">C3</tspan>
+  </text>
+  <rect rx="10.003" ry="18" height="36" width="42.394" stroke="#616161" y="194.24" x="129" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="194.24001" x="129" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="218.24001" x="150.19701" font-family="&apos;Courier" text-align="center">C2</tspan>
+  </text>
+  <rect rx="10.003" ry="18" height="36" width="42.394" stroke="#616161" y="193.74" x="59.606" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="193.74001" x="59.605999" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="217.74001" x="80.803001" font-family="&apos;Courier" text-align="center">C1</tspan>
+  </text>
+  <rect rx="10.003" ry="18" height="36" width="42.394" stroke="#616161" y="255.27" x="267" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="255.27" x="267" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="279.26999" x="288.19699" font-family="&apos;Courier" text-align="center">C4</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m265.5,273.27-23.212,0" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="M200.55,256.52,169.24,228.99" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m127.5,212.08-24-0.172" stroke="#000"/>
+  <path style="marker-end:url(#Arrow1Lend);marker-start:none;" d="M58.106,211.74,24,211.74" stroke="#000" stroke-dasharray="3, 3" fill="none"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m288.07,309.78,0.061-17.01" stroke="#000"/>
+  <rect height="36" width="56.208" stroke="#616161" y="137" x="263.29" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="137" x="263.29001" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="160" x="291.39404" font-family="&apos;LucidaGrande" text-align="center">master</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m303.02,173.85,11.481,18.612" stroke="#000"/>
+  <rect rx="10.003" ry="18" height="36" width="42.394" stroke="#616161" y="194.24" x="198.39" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="194.24001" x="198.394" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="218.24001" x="219.591" font-family="&apos;Courier" text-align="center">C5</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m196.89,212.24-24,0" stroke="#000"/>
+  <rect rx="10.003" ry="18" height="36" width="42.394" stroke="#616161" y="193.74" x="305.2" stroke-width="3px" fill="#b2ceb7"/>
+  <text font-family="Courier New" font-size="12px" stroke="#000000" y="193.74001" x="305.19699" stroke-width="0px" fill="#000000">
+   <tspan font-size="12px" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="217.74001" x="326.39401" font-family="&apos;Courier" text-align="center">C8</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m314.43,231.01-14.267,22.982" stroke="#000"/>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m303.7,211.85-61.409,0.288" stroke="#000"/>
+  <rect height="36" width="70.022" stroke="#616161" y="310.78" x="252.99" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="310.78" x="252.989" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="333.78" x="288.00009" font-family="&apos;LucidaGrande" text-align="center">ruby_client</tspan>
+  </text>
+  <rect height="36" width="56.208" stroke="#616161" y="137" x="333.29" stroke-width="2px" fill="#EEE"/>
+  <text font-family="Luxi Sans" font-size="10px" stroke="#cccccc" y="137" x="333.29001" stroke-width="0px" fill="#cccccc">
+   <tspan font-size="10px" fill="#777777" style="text-anchor:middle;text-align:center;" stroke="#777777" y="160" x="361.39404" font-family="&apos;LucidaGrande" text-align="center">develop</tspan>
+  </text>
+  <path style="marker-start:none;marker-end:url(#Arrow1Lend);" fill="none" d="m349.77,173.85-11.481,18.612" stroke="#000"/>
+ </g>
 </svg>

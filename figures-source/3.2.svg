@@ -1,277 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<defs>
-		<marker id="Arrow1Lend" orient="auto" refX="0.0" refY="0.0" style="overflow:visible;">
-			
-              
-			<path d="M -10,0.0 L -10.0,-2.0 L 0.0,0.0 L -10.0,2.0 z " id="path3666" style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0px;marker-start:none;"/>
-			
-            
-		</marker>
-	</defs>
-	<g style="stroke:#000000;fill:#fff">
-		<g style="stroke:#000000;fill:#fff">
-			<rect height="154.5" id="272" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="516.021" y="122.0"/>
-			<path d="M 670.021,162.408 L 516.021,162.408" id="271" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
-			<path d="M 615.021,124.377 L 615.021,162.408" id="270" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
-			<rect height="26.1462" id="269" style="stroke:none;fill:none" width="56.0" x="532.021" y="129.131"/>
-			<text id="269_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans-Bold;font-size:18px" x="532.021" y="129.131">
-				<tspan fill="#000000" font-family="GillSans;" font-size="18.0px" font-weight="bold" id="269_line1" stroke="#000000" text-align="center" text-anchor="middle" x="560.021" y="151.2041">
-					commit
-				</tspan>
-			</text>
-			<rect height="26.1462" id="268" style="stroke:none;fill:none" width="27.0" x="629.021" y="129.131"/>
-			<text id="268_text" style="fill:#7d7d7d;stroke:#7d7d7d;stroke-width:0px;font-family: GillSans;font-size:18px" x="629.021" y="129.131">
-				<tspan fill="#7d7d7d" font-family="GillSans;" font-size="18.0px" id="268_line1" stroke="#7d7d7d" text-align="center" text-anchor="middle" x="642.521" y="151.2041">
-					size
-				</tspan>
-			</text>
-		</g>
-		<g style="stroke:#000000;fill:#fff">
-			<rect height="154.5" id="44" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="32.493" y="122.0"/>
-			<path d="M 186.493,162.408 L 32.493,162.408" id="43" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
-			<path d="M 131.493,124.377 L 131.493,162.408" id="42" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
-			<rect height="26.1462" id="41" style="stroke:none;fill:none" width="56.0" x="48.493" y="129.131"/>
-			<text id="41_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans-Bold;font-size:18px" x="48.493" y="129.131">
-				<tspan fill="#000000" font-family="GillSans;" font-size="18.0px" font-weight="bold" id="41_line1" stroke="#000000" text-align="center" text-anchor="middle" x="76.493" y="151.2041">
-					commit
-				</tspan>
-			</text>
-			<rect height="26.1462" id="40" style="stroke:none;fill:none" width="27.0" x="145.493" y="129.131"/>
-			<text id="40_text" style="fill:#7d7d7d;stroke:#7d7d7d;stroke-width:0px;font-family: GillSans;font-size:18px" x="145.493" y="129.131">
-				<tspan fill="#7d7d7d" font-family="GillSans;" font-size="18.0px" id="40_line1" stroke="#7d7d7d" text-align="center" text-anchor="middle" x="158.993" y="151.2041">
-					size
-				</tspan>
-			</text>
-		</g>
-		<rect height="22.0" id="67" style="stroke:none;fill:none" width="76.0" x="71.493" y="95.5"/>
-		<text id="67_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:18px" x="71.493" y="95.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="67_line1" stroke="#000000" text-align="center" text-anchor="middle" x="109.493" y="115.5">
-				98ca9..
-			</tspan>
-		</text>
-		<path d="M 184.515,185.5 L 34.985,185.5" id="80" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 185.0,205.5 L 35.471,205.5" id="82" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 184.515,227.323 L 34.985,227.323" id="83" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<rect height="26.1462" id="84" style="stroke:none;fill:none" width="56.0" x="36.5" y="160.354"/>
-		<text id="84_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="36.5" y="160.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="84_line1" stroke="#000000" text-align="center" text-anchor="middle" x="64.5" y="180.4271">
-				tree
-			</tspan>
-		</text>
-		<rect height="26.1462" id="85" style="stroke:none;fill:none" width="56.0" x="36.5" y="181.354"/>
-		<rect height="26.1462" id="86" style="stroke:none;fill:none" width="56.0" x="36.5" y="180.354"/>
-		<text id="86_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="36.5" y="180.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="86_line1" stroke="#000000" text-align="center" text-anchor="middle" x="64.5" y="200.4271">
-				author
-			</tspan>
-		</text>
-		<rect height="26.1462" id="92" style="stroke:none;fill:none" width="56.0" x="40.5" y="201.854"/>
-		<text id="92_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="40.5" y="201.854">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="92_line1" stroke="#000000" text-align="center" text-anchor="middle" x="68.5" y="221.9271">
-				committer
-			</tspan>
-		</text>
-		<path d="M 105.0,227.323 L 104.993,162.177" id="93" style="marker-start:none;stroke:#616161;marker-end:none;fill:none"/>
-		<rect height="11.0" id="95" style="stroke:none;fill:none" width="135.0" x="40.5" y="231.5"/>
-		<text id="95_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Monaco;font-size:8px" x="40.5" y="231.5">
-			<tspan fill="#4b4b4b" font-family="Monaco;" font-size="8.0px" id="95_line1" stroke="#4b4b4b" text-align="left" x="40.5" y="241.0">
-				initial commit of my project
-			</tspan>
-		</text>
-		<rect height="14.0" id="299" style="stroke:none;fill:none" width="37.0" x="597.014" y="167.427"/>
-		<text id="299_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="597.014" y="167.427">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="299_line1" stroke="#000000" text-align="center" text-anchor="middle" x="615.514" y="180.427">
-				0de24
-			</tspan>
-		</text>
-		<rect height="14.0" id="124" style="stroke:none;fill:none" width="37.0" x="113.486" y="188.5"/>
-		<text id="124_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="113.486" y="188.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="124_line1" stroke="#000000" text-align="center" text-anchor="middle" x="131.986" y="201.5">
-				Scott
-			</tspan>
-		</text>
-		<rect height="14.0" id="125" style="stroke:none;fill:none" width="37.0" x="113.486" y="209.5"/>
-		<text id="125_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="113.486" y="209.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="125_line1" stroke="#000000" text-align="center" text-anchor="middle" x="131.986" y="222.5">
-				Scott
-			</tspan>
-		</text>
-		<g style="stroke:#000000;fill:#fff">
-			<rect height="154.5" id="251" rx="5.0" ry="5.0" style="stroke:#504b50;stroke-width:3.000000px;fill:#bdffc1" width="154.0" x="274.257" y="122.0"/>
-			<path d="M 428.257,162.408 L 274.257,162.408" id="250" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
-			<path d="M 373.257,124.377 L 373.257,162.408" id="249" style="marker-start:none;stroke:#504b50;stroke-width:3.000000px;marker-end:none;fill:none"/>
-			<rect height="26.1462" id="248" style="stroke:none;fill:none" width="56.0" x="290.257" y="129.131"/>
-			<text id="248_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans-Bold;font-size:18px" x="290.257" y="129.131">
-				<tspan fill="#000000" font-family="GillSans;" font-size="18.0px" font-weight="bold" id="248_line1" stroke="#000000" text-align="center" text-anchor="middle" x="318.257" y="151.2041">
-					commit
-				</tspan>
-			</text>
-			<rect height="26.1462" id="247" style="stroke:none;fill:none" width="27.0" x="387.257" y="129.131"/>
-			<text id="247_text" style="fill:#7d7d7d;stroke:#7d7d7d;stroke-width:0px;font-family: GillSans;font-size:18px" x="387.257" y="129.131">
-				<tspan fill="#7d7d7d" font-family="GillSans;" font-size="18.0px" id="247_line1" stroke="#7d7d7d" text-align="center" text-anchor="middle" x="400.757" y="151.2041">
-					size
-				</tspan>
-			</text>
-		</g>
-		<rect height="22.0" id="252" style="stroke:none;fill:none" width="76.0" x="313.257" y="95.5"/>
-		<text id="252_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:18px" x="313.257" y="95.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="252_line1" stroke="#000000" text-align="center" text-anchor="middle" x="351.257" y="115.5">
-				34ac2..
-			</tspan>
-		</text>
-		<path d="M 426.279,185.5 L 276.749,185.5" id="253" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 426.793,206.5 L 277.264,206.5" id="254" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 426.764,227.5 L 277.235,227.5" id="255" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 426.279,248.5 L 276.749,248.5" id="256" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<rect height="26.1462" id="257" style="stroke:none;fill:none" width="56.0" x="278.264" y="160.354"/>
-		<text id="257_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="278.264" y="160.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="257_line1" stroke="#000000" text-align="center" text-anchor="middle" x="306.264" y="180.4271">
-				tree
-			</tspan>
-		</text>
-		<rect height="26.1462" id="258" style="stroke:none;fill:none" width="56.0" x="278.264" y="181.354"/>
-		<text id="258_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="278.264" y="181.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="258_line1" stroke="#000000" text-align="center" text-anchor="middle" x="306.264" y="201.4271">
-				parent
-			</tspan>
-		</text>
-		<rect height="26.1462" id="259" style="stroke:none;fill:none" width="56.0" x="278.264" y="202.354"/>
-		<text id="259_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="278.264" y="202.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="259_line1" stroke="#000000" text-align="center" text-anchor="middle" x="306.264" y="222.4271">
-				author
-			</tspan>
-		</text>
-		<rect height="26.1462" id="260" style="stroke:none;fill:none" width="56.0" x="282.264" y="223.854"/>
-		<text id="260_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="282.264" y="223.854">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="260_line1" stroke="#000000" text-align="center" text-anchor="middle" x="310.264" y="243.9271">
-				committer
-			</tspan>
-		</text>
-		<path d="M 346.757,248.323 L 346.757,162.177" id="261" style="marker-start:none;stroke:#616161;marker-end:none;fill:none"/>
-		<rect height="22.0" id="262" style="stroke:none;fill:none" width="116.0" x="282.264" y="250.677"/>
-		<text id="262_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Monaco;font-size:8px" x="282.264" y="250.677">
-			<tspan fill="#4b4b4b" font-family="Monaco;" font-size="8.0px" id="262_line1" stroke="#4b4b4b" text-align="left" x="282.264" y="261.677">
-				fixed bug #1328 - stack 
-			</tspan>
-			<tspan fill="#4b4b4b" font-family="Monaco;" font-size="8.0px" id="262_line2" stroke="#4b4b4b" text-align="left" x="282.264" y="269.677">
-				overflow under certain
-			</tspan>
-		</text>
-		<rect height="14.0" id="263" style="stroke:none;fill:none" width="37.0" x="356.25" y="167.5"/>
-		<text id="263_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="356.25" y="167.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="263_line1" stroke="#000000" text-align="center" text-anchor="middle" x="374.75" y="180.5">
-				184ca
-			</tspan>
-		</text>
-		<rect height="14.0" id="264" style="stroke:none;fill:none" width="37.0" x="355.25" y="189.5"/>
-		<text id="264_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="355.25" y="189.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="264_line1" stroke="#000000" text-align="center" text-anchor="middle" x="373.75" y="202.5">
-				98ca9
-			</tspan>
-		</text>
-		<rect height="14.0" id="265" style="stroke:none;fill:none" width="37.0" x="355.25" y="210.5"/>
-		<text id="265_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="355.25" y="210.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="265_line1" stroke="#000000" text-align="center" text-anchor="middle" x="373.75" y="223.5">
-				Scott
-			</tspan>
-		</text>
-		<rect height="14.0" id="266" style="stroke:none;fill:none" width="37.0" x="355.25" y="231.5"/>
-		<text id="266_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="355.25" y="231.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="266_line1" stroke="#000000" text-align="center" text-anchor="middle" x="373.75" y="244.5">
-				Scott
-			</tspan>
-		</text>
-		<rect height="22.0" id="273" style="stroke:none;fill:none" width="76.0" x="555.021" y="95.5"/>
-		<text id="273_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:18px" x="555.021" y="95.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="18.0px" id="273_line1" stroke="#000000" text-align="center" text-anchor="middle" x="593.021" y="115.5">
-				f30ab..
-			</tspan>
-		</text>
-		<path d="M 668.043,185.5 L 518.513,185.5" id="274" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 668.557,206.5 L 519.028,206.5" id="275" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 668.528,227.5 L 518.999,227.5" id="276" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<path d="M 668.043,248.5 L 518.513,248.5" id="277" style="marker-start:none;stroke:#616161;stroke-width:2.000000px;marker-end:none;fill:none"/>
-		<rect height="26.1462" id="278" style="stroke:none;fill:none" width="56.0" x="520.028" y="160.354"/>
-		<text id="278_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="520.028" y="160.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="278_line1" stroke="#000000" text-align="center" text-anchor="middle" x="548.028" y="180.4271">
-				tree
-			</tspan>
-		</text>
-		<rect height="26.1462" id="279" style="stroke:none;fill:none" width="56.0" x="520.028" y="181.354"/>
-		<text id="279_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="520.028" y="181.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="279_line1" stroke="#000000" text-align="center" text-anchor="middle" x="548.028" y="201.4271">
-				parent
-			</tspan>
-		</text>
-		<rect height="26.1462" id="280" style="stroke:none;fill:none" width="56.0" x="520.028" y="202.354"/>
-		<text id="280_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="520.028" y="202.354">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="280_line1" stroke="#000000" text-align="center" text-anchor="middle" x="548.028" y="222.4271">
-				author
-			</tspan>
-		</text>
-		<rect height="26.1462" id="281" style="stroke:none;fill:none" width="56.0" x="524.028" y="223.854"/>
-		<text id="281_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: GillSans;font-size:14px" x="524.028" y="223.854">
-			<tspan fill="#000000" font-family="GillSans;" font-size="14.0px" id="281_line1" stroke="#000000" text-align="center" text-anchor="middle" x="552.028" y="243.9271">
-				committer
-			</tspan>
-		</text>
-		<path d="M 588.521,248.323 L 588.521,162.177" id="282" style="marker-start:none;stroke:#616161;marker-end:none;fill:none"/>
-		<rect height="22.0" id="283" style="stroke:none;fill:none" width="145.0" x="524.028" y="250.677"/>
-		<text id="283_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Monaco;font-size:8px" x="524.028" y="250.677">
-			<tspan fill="#4b4b4b" font-family="Monaco;" font-size="8.0px" id="283_line1" stroke="#4b4b4b" text-align="left" x="524.028" y="261.677">
-				add feature #32 - ability to
-			</tspan>
-			<tspan fill="#4b4b4b" font-family="Monaco;" font-size="8.0px" id="283_line2" stroke="#4b4b4b" text-align="left" x="524.028" y="269.677">
-				add new formats to the central
-			</tspan>
-		</text>
-		<rect height="14.0" id="285" style="stroke:none;fill:none" width="37.0" x="597.014" y="189.5"/>
-		<text id="285_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="597.014" y="189.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="285_line1" stroke="#000000" text-align="center" text-anchor="middle" x="615.514" y="202.5">
-				34ac2
-			</tspan>
-		</text>
-		<rect height="14.0" id="286" style="stroke:none;fill:none" width="37.0" x="597.014" y="210.5"/>
-		<text id="286_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="597.014" y="210.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="286_line1" stroke="#000000" text-align="center" text-anchor="middle" x="615.514" y="223.5">
-				Scott
-			</tspan>
-		</text>
-		<rect height="14.0" id="287" style="stroke:none;fill:none" width="37.0" x="597.014" y="231.5"/>
-		<text id="287_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="597.014" y="231.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="287_line1" stroke="#000000" text-align="center" text-anchor="middle" x="615.514" y="244.5">
-				Scott
-			</tspan>
-		</text>
-		<path d="M 272.757,199.25 L 187.993,199.25" id="288" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<path d="M 514.521,199.25 L 429.757,199.25" id="289" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="292" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="33.2645" y="325.0"/>
-		<text id="292_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="33.2645" y="325.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="292_line1" stroke="#000000" text-align="center" text-anchor="middle" x="110.2645" y="359.5">
-				Snapshot A
-			</tspan>
-		</text>
-		<path d="M 109.889,278.0 L 110.118,323.5" id="293" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="294" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="270.257" y="325.0"/>
-		<text id="294_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="270.257" y="325.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="294_line1" stroke="#000000" text-align="center" text-anchor="middle" x="347.257" y="359.5">
-				Snapshot B
-			</tspan>
-		</text>
-		<path d="M 346.882,278.0 L 347.111,323.5" id="295" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="55.0" id="296" rx="5.0" ry="5.0" style="stroke:#1b2350;stroke-width:3.000000px;fill:#d0ceff" width="154.0" x="515.028" y="325.0"/>
-		<text id="296_text" style="fill:#ffffff;stroke:#ffffff;stroke-width:0px;font-family: Geneva;font-size:14px" x="515.028" y="325.0">
-			<tspan fill="#000000" font-family="Geneva;" font-size="14.0px" id="296_line1" stroke="#000000" text-align="center" text-anchor="middle" x="592.028" y="359.5">
-				Snapshot C
-			</tspan>
-		</text>
-		<path d="M 591.653,278.0 L 591.882,323.5" id="297" style="marker-start:none;stroke:#000000;stroke-width:4.000000px;marker-end:url(#Arrow1Lend);fill:none"/>
-		<rect height="14.0" id="300" style="stroke:none;fill:none" width="37.0" x="113.486" y="167.5"/>
-		<text id="300_text" style="fill:#000000;stroke:#000000;stroke-width:0px;font-family: Courier New;font-size:12px" x="113.486" y="167.5">
-			<tspan fill="#000000" font-family="Courier;" font-size="12.0px" id="300_line1" stroke="#000000" text-align="center" text-anchor="middle" x="131.986" y="180.5">
-				92ec2
-			</tspan>
-		</text>
-	</g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="279.68" width="640.53" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <marker id="Arrow1Lend" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="m-10,0,0-2,10,2-10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+ </defs>
+ <rect rx="5" ry="5" height="154.5" width="154" stroke="#504b50" y="20.176" x="485.03" stroke-width="3px" fill="#bdffc1"/>
+ <path style="marker-start:none;marker-end:none;" d="m639.03,60.586-154,0" stroke="#504b50" stroke-width="3px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m584.03,22.556,0,38.031" stroke="#504b50" stroke-width="3px" fill="none"/>
+ <text font-size="18px" font-family="GillSans-Bold" stroke="#000000" y="27.306778" x="501.03098" stroke-width="0px" fill="#000000">
+  <tspan font-size="18px" font-family="&apos;\&apos;GillSans&apos;" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="49.379883" x="529.03101" font-weight="bold" text-align="center">commit</tspan>
+ </text>
+ <text font-size="18px" font-family="GillSans" stroke="#7d7d7d" y="27.306778" x="598.03101" stroke-width="0px" fill="#7d7d7d">
+  <tspan font-size="18px" fill="#7d7d7d" style="text-anchor:middle;text-align:center;" stroke="#7d7d7d" y="49.379883" x="611.53101" font-family="&apos;\&apos;GillSans&apos;" text-align="center">size</tspan>
+ </text>
+ <rect rx="5" ry="5" height="154.5" width="154" stroke="#504b50" y="20.176" x="1.503" stroke-width="3px" fill="#bdffc1"/>
+ <path style="marker-start:none;marker-end:none;" d="m155.5,60.586-154,0" stroke="#504b50" stroke-width="3px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m100.5,22.556,0,38.031" stroke="#504b50" stroke-width="3px" fill="none"/>
+ <text font-size="18px" font-family="GillSans-Bold" stroke="#000000" y="27.306778" x="17.503" stroke-width="0px" fill="#000000">
+  <tspan font-size="18px" font-family="&apos;\&apos;GillSans&apos;" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="49.379883" x="45.502995" font-weight="bold" text-align="center">commit</tspan>
+ </text>
+ <text font-size="18px" font-family="GillSans" stroke="#7d7d7d" y="27.306778" x="114.503" stroke-width="0px" fill="#7d7d7d">
+  <tspan font-size="18px" fill="#7d7d7d" style="text-anchor:middle;text-align:center;" stroke="#7d7d7d" y="49.379883" x="128.00301" font-family="&apos;\&apos;GillSans&apos;" text-align="center">size</tspan>
+ </text>
+ <text font-family="Courier New" font-size="18px" stroke="#000000" y="-6.3242188" x="40.502995" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="18px" stroke="#000000" y="13.675781" x="78.502998" font-family="&apos;\&apos;Courier&apos;" text-align="center">98ca9..</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:none;" d="m153.53,83.676-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m154.01,103.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m153.53,125.5-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="58.529785" x="5.5099998" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="78.602875" x="33.509998" font-family="&apos;\&apos;GillSans&apos;" text-align="center">tree</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="78.529785" x="5.5099998" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="98.602875" x="33.509998" font-family="&apos;\&apos;GillSans&apos;" text-align="center">author</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="100.02978" x="9.5100002" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="120.10287" x="37.509998" font-family="&apos;\&apos;GillSans&apos;" text-align="center">committer</tspan>
+ </text>
+ <path d="M74.01,125.5,74.003,60.35" style="marker-start:none;marker-end:none;" fill="none" stroke="#616161"/>
+ <text font-family="Monaco" font-size="8px" stroke="#000000" y="129.67578" x="9.5100002" stroke-width="0px" fill="#000000">
+  <tspan style="text-align:left;" font-family="&apos;\&apos;Monaco&apos;" font-size="8px" stroke="#4b4b4b" y="139.17578" x="9.5100002" fill="#4b4b4b" text-align="left">initial commit of my project</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="65.602783" x="566.02399" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="78.602783" x="584.52399" font-family="&apos;\&apos;Courier&apos;" text-align="center">0de24</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="86.675781" x="82.496002" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="99.675781" x="100.99599" font-family="&apos;\&apos;Courier&apos;" text-align="center">Scott</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="107.67578" x="82.496002" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="120.67578" x="100.99599" font-family="&apos;\&apos;Courier&apos;" text-align="center">Scott</tspan>
+ </text>
+ <rect rx="5" ry="5" height="154.5" width="154" stroke="#504b50" y="20.176" x="243.27" stroke-width="3px" fill="#bdffc1"/>
+ <path style="marker-start:none;marker-end:none;" d="m397.27,60.586-154,0" stroke="#504b50" stroke-width="3px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m342.27,22.556,0,38.031" stroke="#504b50" stroke-width="3px" fill="none"/>
+ <text font-size="18px" font-family="GillSans-Bold" stroke="#000000" y="27.306778" x="259.26697" stroke-width="0px" fill="#000000">
+  <tspan font-size="18px" font-family="&apos;\&apos;GillSans&apos;" fill="#000000" style="text-anchor:middle;text-align:center;" stroke="#000000" y="49.379883" x="287.26697" font-weight="bold" text-align="center">commit</tspan>
+ </text>
+ <text font-size="18px" font-family="GillSans" stroke="#7d7d7d" y="27.306778" x="356.26697" stroke-width="0px" fill="#7d7d7d">
+  <tspan font-size="18px" fill="#7d7d7d" style="text-anchor:middle;text-align:center;" stroke="#7d7d7d" y="49.379883" x="369.76697" font-family="&apos;\&apos;GillSans&apos;" text-align="center">size</tspan>
+ </text>
+ <text font-family="Courier New" font-size="18px" stroke="#000000" y="-6.3242188" x="282.26697" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="18px" stroke="#000000" y="13.675781" x="320.26697" font-family="&apos;\&apos;Courier&apos;" text-align="center">34ac2..</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:none;" d="m395.29,83.676-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m395.8,104.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m395.77,125.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m395.29,146.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="58.529785" x="247.27402" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="78.602875" x="275.27399" font-family="&apos;\&apos;GillSans&apos;" text-align="center">tree</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="79.529785" x="247.27402" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="99.602875" x="275.27399" font-family="&apos;\&apos;GillSans&apos;" text-align="center">parent</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="100.52978" x="247.27402" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="120.60287" x="275.27399" font-family="&apos;\&apos;GillSans&apos;" text-align="center">author</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="122.02979" x="251.27402" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="142.10287" x="279.27399" font-family="&apos;\&apos;GillSans&apos;" text-align="center">committer</tspan>
+ </text>
+ <path d="m315.77,146.5,0-86.146" style="marker-start:none;marker-end:none;" fill="none" stroke="#616161"/>
+ <text font-family="&apos;\&apos;Monaco&apos;" font-size="8px" stroke="#4b4b4b" y="148.85278" x="251.27402" stroke-width="0px" fill="#4b4b4b">
+  <tspan y="159.85278" x="251.27402" style="text-align:left;" text-align="left">fixed bug #1328 - stack</tspan>
+  <tspan y="167.85278" x="251.27402" style="text-align:left;" text-align="left">overflow under certain</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="65.675781" x="325.25998" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="78.675781" x="343.75998" font-family="&apos;\&apos;Courier&apos;" text-align="center">184ca</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="87.675781" x="324.25998" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="100.67578" x="342.75998" font-family="&apos;\&apos;Courier&apos;" text-align="center">98ca9</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="108.67578" x="324.25998" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="121.67578" x="342.75998" font-family="&apos;\&apos;Courier&apos;" text-align="center">Scott</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="129.67578" x="324.25998" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="142.67578" x="342.75998" font-family="&apos;\&apos;Courier&apos;" text-align="center">Scott</tspan>
+ </text>
+ <text font-family="Courier New" font-size="18px" stroke="#000000" y="-6.3242188" x="524.03101" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="18px" stroke="#000000" y="13.675781" x="562.03101" font-family="&apos;\&apos;Courier&apos;" text-align="center">f30ab..</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:none;" d="m637.05,83.676-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m637.57,104.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m637.54,125.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <path style="marker-start:none;marker-end:none;" d="m637.05,146.68-149.53,0" stroke="#616161" stroke-width="2px" fill="none"/>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="58.529785" x="489.03799" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="78.602875" x="517.03802" font-family="&apos;\&apos;GillSans&apos;" text-align="center">tree</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="79.529785" x="489.03799" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="99.602875" x="517.03802" font-family="&apos;\&apos;GillSans&apos;" text-align="center">parent</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="100.52978" x="489.03799" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="120.60287" x="517.03802" font-family="&apos;\&apos;GillSans&apos;" text-align="center">author</tspan>
+ </text>
+ <text font-family="GillSans" font-size="14px" stroke="#000000" y="122.02979" x="493.03799" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="142.10287" x="521.03802" font-family="&apos;\&apos;GillSans&apos;" text-align="center">committer</tspan>
+ </text>
+ <path d="m557.53,146.5,0-86.146" style="marker-start:none;marker-end:none;" fill="none" stroke="#616161"/>
+ <text font-family="&apos;\&apos;Monaco&apos;" font-size="8px" stroke="#4b4b4b" y="148.85278" x="493.03799" stroke-width="0px" fill="#4b4b4b">
+  <tspan y="159.85278" x="493.03799" style="text-align:left;" text-align="left">add feature #32 - ability to</tspan>
+  <tspan y="167.85278" x="493.03799" style="text-align:left;" text-align="left">add new formats to the central</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="87.675781" x="566.02399" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="100.67578" x="584.52399" font-family="&apos;\&apos;Courier&apos;" text-align="center">34ac2</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="108.67578" x="566.02399" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="121.67578" x="584.52399" font-family="&apos;\&apos;Courier&apos;" text-align="center">Scott</tspan>
+ </text>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="129.67578" x="566.02399" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="142.67578" x="584.52399" font-family="&apos;\&apos;Courier&apos;" text-align="center">Scott</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m241.77,97.426-84.764,0" stroke="#000" stroke-width="4px" fill="none"/>
+ <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m483.53,97.426-84.764,0" stroke="#000" stroke-width="4px" fill="none"/>
+ <rect rx="5" ry="5" height="55" width="154" stroke="#1b2350" y="223.18" x="2.274" stroke-width="3px" fill="#d0ceff"/>
+ <text font-family="Geneva" font-size="14px" stroke="#ffffff" y="223.17578" x="2.2744997" stroke-width="0px" fill="#ffffff">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="257.67578" x="79.274506" font-family="&apos;\&apos;Geneva&apos;" text-align="center">Snapshot A</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m78.9,176.18,0.229,45.5" stroke="#000" stroke-width="4px" fill="none"/>
+ <rect rx="5" ry="5" height="55" width="154" stroke="#1b2350" y="223.18" x="239.27" stroke-width="3px" fill="#d0ceff"/>
+ <text font-family="Geneva" font-size="14px" stroke="#ffffff" y="223.17578" x="239.267" stroke-width="0px" fill="#ffffff">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="257.67578" x="316.26697" font-family="&apos;\&apos;Geneva&apos;" text-align="center">Snapshot B</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m315.89,176.18,0.229,45.5" stroke="#000" stroke-width="4px" fill="none"/>
+ <rect rx="5" ry="5" height="55" width="154" stroke="#1b2350" y="223.18" x="484.04" stroke-width="3px" fill="#d0ceff"/>
+ <text font-family="Geneva" font-size="14px" stroke="#ffffff" y="223.17578" x="484.03799" stroke-width="0px" fill="#ffffff">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="14px" stroke="#000000" y="257.67578" x="561.03802" font-family="&apos;\&apos;Geneva&apos;" text-align="center">Snapshot C</tspan>
+ </text>
+ <path style="marker-start:none;marker-end:url(#Arrow1Lend);" d="m560.66,176.18,0.229,45.5" stroke="#000" stroke-width="4px" fill="none"/>
+ <text font-family="Courier New" font-size="12px" stroke="#000000" y="65.675781" x="82.496002" stroke-width="0px" fill="#000000">
+  <tspan style="text-anchor:middle;text-align:center;" fill="#000000" font-size="12px" stroke="#000000" y="78.675781" x="100.99599" font-family="&apos;\&apos;Courier&apos;" text-align="center">92ec2</tspan>
+ </text>
 </svg>

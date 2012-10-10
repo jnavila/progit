@@ -1,272 +1,70 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="100%"
-   height="100%"
-   id="svg2">
-  <defs
-     id="defs4">
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow1Lstart"
-       style="overflow:visible">
-      <path
-         d="M 10,0 10,-2 0,0 10,2 z"
-         id="path3663"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;marker-start:none" />
-    </marker>
-  </defs>
-  <g
-     id="g2908">
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="287"
-       y="3"
-       id="1957"
-       style="fill:#d3f5d6;stroke:#616161;stroke-width:3px" />
-    <text
-       x="287"
-       y="3"
-       id="1957_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="340.03949"
-         y="31.7348"
-         id="1957_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">developer</tspan>
-      <tspan
-         x="340.03949"
-         y="43.734798"
-         id="1957_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">public</tspan>
-    </text>
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="164"
-       y="3"
-       id="1972"
-       style="fill:#d3f5d6;stroke:#616161;stroke-width:3px" />
-    <text
-       x="164"
-       y="3"
-       id="1972_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="217.03951"
-         y="31.7348"
-         id="1972_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">developer</tspan>
-      <tspan
-         x="217.03951"
-         y="43.734798"
-         id="1972_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">public</tspan>
-    </text>
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="18.874001"
-       y="150"
-       id="1973"
-       style="fill:#ffada5;stroke:#616161;stroke-width:3px" />
-    <text
-       x="18.8242"
-       y="144"
-       id="1973_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="71.863693"
-         y="178.7348"
-         id="1973_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">integration</tspan>
-      <tspan
-         x="71.374435"
-         y="190.7348"
-         id="tspan2906"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">manager</tspan>
-    </text>
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="410.00101"
-       y="3"
-       id="1974"
-       style="fill:#d3f5d6;stroke:#616161;stroke-width:3px" />
-    <text
-       x="410.00101"
-       y="3"
-       id="1974_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="463.0405"
-         y="31.7348"
-         id="1974_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">developer</tspan>
-      <tspan
-         x="463.0405"
-         y="43.734798"
-         id="1974_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">public</tspan>
-    </text>
-    <rect
-       width="138.33099"
-       height="81"
-       rx="13.097538"
-       ry="40.5"
-       x="2.7479999"
-       y="3"
-       id="1987"
-       style="fill:#8ab5eb;stroke:#616161;stroke-width:3px" />
-    <text
-       x="2.7479999"
-       y="3"
-       id="1987_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="71.913498"
-         y="43.5"
-         id="1987_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">blessed</tspan>
-      <tspan
-         x="71.913498"
-         y="55.5"
-         id="1987_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">repository</tspan>
-    </text>
-    <path
-       d="m 71.9135,85.5 0,63"
-       id="1990"
-       style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="287"
-       y="150"
-       id="1991"
-       style="fill:#8ab891;stroke:#616161;stroke-width:3px" />
-    <text
-       x="287"
-       y="150"
-       id="1991_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="340.03949"
-         y="178.7348"
-         id="1991_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">developer</tspan>
-      <tspan
-         x="340.03949"
-         y="190.7348"
-         id="1991_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">private</tspan>
-    </text>
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="164"
-       y="150"
-       id="1993"
-       style="fill:#8ab891;stroke:#616161;stroke-width:3px" />
-    <text
-       x="164"
-       y="150"
-       id="1993_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="217.03951"
-         y="178.7348"
-         id="1993_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">developer</tspan>
-      <tspan
-         x="217.03951"
-         y="190.7348"
-         id="1993_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">private</tspan>
-    </text>
-    <rect
-       width="106.079"
-       height="57.469601"
-       rx="8.4581156"
-       ry="28.7348"
-       x="410.00101"
-       y="150"
-       id="1994"
-       style="fill:#8ab891;stroke:#616161;stroke-width:3px" />
-    <text
-       x="410.00101"
-       y="150"
-       id="1994_text"
-       style="font-size:12px;fill:#000000;stroke:#000000;stroke-width:0px;font-family:Helvetica">
-      <tspan
-         x="463.0405"
-         y="178.7348"
-         id="1994_line1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">developer</tspan>
-      <tspan
-         x="463.0405"
-         y="190.7348"
-         id="1994_line2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;font-family:'LucidaGrande;'">private</tspan>
-    </text>
-    <path
-       d="M 121.193,156.999 340.039,60.4696"
-       id="1998"
-       style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="M 108.337,149.052 217.04,60.4696"
-       id="1999"
-       style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="M 123.946,163.002 463.04,60.4696"
-       id="2000"
-       style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="m 217.04,60.4696 0,88.0304"
-       id="2002"
-       style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="m 340.039,60.4696 0,88.0304"
-       id="2003"
-       style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="m 463.04,60.4696 0,88.0304"
-       id="2004"
-       style="fill:none;stroke:#000000;stroke-width:2px;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="M 185.106,148.977 116.473,85.0226"
-       id="2006"
-       style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="M 292.33,154.671 134.946,75.2918"
-       id="2007"
-       style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="M 411.766,161.006 138.936,66.6735"
-       id="2008"
-       style="fill:none;stroke:#808080;marker-start:url(#Arrow1Lstart);marker-end:none" />
-    <path
-       d="M 432.074,148.96 340.039,60.4696"
-       id="2009"
-       style="fill:none;stroke:#808080;stroke-dasharray:5, 5;marker-start:url(#Arrow1Lstart);marker-end:none" />
-  </g>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="207.47" width="516.33" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <marker id="Arrow1Lstart" refY="0" refX="0" orient="auto">
+   <path style="marker-start:none;" d="M10,0,10-2,0,0,10,2z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  </marker>
+ </defs>
+ <g transform="translate(-1.2479999,-1.5)">
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="3" x="287" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="3" x="287" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="31.7348" x="340.03949">developer</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="43.734798" x="340.03949">public</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="3" x="164" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="3" x="164" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="31.7348" x="217.03951">developer</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="43.734798" x="217.03951">public</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="150" x="18.874" stroke-width="3px" fill="#ffada5"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="144" x="18.8242" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="178.7348" x="71.863693">integration</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="190.7348" x="71.374435">manager</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="3" x="410" stroke-width="3px" fill="#d3f5d6"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="3" x="410.00101" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="31.7348" x="463.0405">developer</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="43.734798" x="463.0405">public</tspan>
+  </text>
+  <rect rx="13.098" ry="40.5" height="81" width="138.33" stroke="#616161" y="3" x="2.748" stroke-width="3px" fill="#8ab5eb"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="3" x="2.7479999" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="43.5" x="71.913498">blessed</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="55.5" x="71.913498">repository</tspan>
+  </text>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" d="m71.914,85.5,0,63" stroke="#000" stroke-width="2px" fill="none"/>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="150" x="287" stroke-width="3px" fill="#8ab891"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="150" x="287" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="178.7348" x="340.03949">developer</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="190.7348" x="340.03949">private</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="150" x="164" stroke-width="3px" fill="#8ab891"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="150" x="164" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="178.7348" x="217.03951">developer</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="190.7348" x="217.03951">private</tspan>
+  </text>
+  <rect rx="8.4581" ry="28.735" height="57.47" width="106.08" stroke="#616161" y="150" x="410" stroke-width="3px" fill="#8ab891"/>
+  <text font-family="&apos;LucidaGrande" font-size="12px" stroke="#000000" y="150" x="410.00101" stroke-width="0px" fill="#000000">
+   <tspan style="text-anchor:middle;text-align:center;" y="178.7348" x="463.0405">developer</tspan>
+   <tspan style="text-anchor:middle;text-align:center;" y="190.7348" x="463.0405">private</tspan>
+  </text>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" fill="none" d="M121.19,157,340.04,60.47" stroke="#808080"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" fill="none" d="M108.34,149.05,217.04,60.47" stroke="#808080"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" fill="none" d="M123.95,163,463.04,60.47" stroke="#808080"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" d="m217.04,60.47,0,88.03" stroke="#000" stroke-width="2px" fill="none"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" d="m340.04,60.47,0,88.03" stroke="#000" stroke-width="2px" fill="none"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" d="m463.04,60.47,0,88.03" stroke="#000" stroke-width="2px" fill="none"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" fill="none" d="M185.11,148.98,116.47,85.023" stroke="#808080"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" fill="none" d="M292.33,154.67,134.95,75.292" stroke="#808080"/>
+  <path style="marker-start:url(#Arrow1Lstart);marker-end:none;" fill="none" d="M411.77,161.01,138.94,66.674" stroke="#808080"/>
+  <path style="marker-end:none;marker-start:url(#Arrow1Lstart);" d="M432.07,148.96,340.04,60.47" stroke="#808080" stroke-dasharray="5, 5" fill="none"/>
+ </g>
 </svg>
