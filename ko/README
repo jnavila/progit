@@ -1,7 +1,7 @@
 Pro Git 책의 내용
 =====================
 
-이 저장소는 Pro Git의 source code이고 라이센스는 Creative Commons Attribution-Non Commercial-Share Alike 3.0를 따름니다. 필자는 여러분이 즐겁게 git을 배웠으면 좋겠습니다. 만약 Amazon에서 책을 구입해주신다면 저와 Apress는 깊은 감사를 드릴 것입니다:
+이 저장소는 Pro Git의 source code이고 라이센스는 Creative Commons Attribution-Non Commercial-Share Alike 3.0를 따릅니다. 필자는 여러분이 즐겁게 git을 배웠으면 좋겠습니다. 만약 Amazon에서 책을 구입해주신다면 저와 Apress는 깊은 감사를 드릴 것입니다:
 
 http://tinyurl.com/amazonprogit
 
@@ -26,7 +26,7 @@ Mac에서는 먼저 Calibre를 내려받아 설치하고 `ebook-convert` 명령�
 Pdf 만드는 법
 =====================
 
-Mac에서는 먼저 Pandoc과 MacTex 패키지를 설치합니다. pdf를 빌드하렴 xetex가 필요한데 MacTex가 가장 쉽습니다. MacTex(2011 패키지 1.8G)는 용량이 크지만 전부 설치합니다.
+Mac에서는 먼저 Pandoc과 MacTex 패키지를 설치합니다. pdf를 빌드하려면 xetex가 필요한데 MacTex가 가장 쉽습니다. MacTex(2011 패키지 1.8G)는 용량이 크지만 전부 설치합니다.
 
 그리고 makepdf명령으로 만들 수 있습니다:
 
